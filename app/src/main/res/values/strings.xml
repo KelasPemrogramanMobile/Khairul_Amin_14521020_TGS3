@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TUGAS3</string>
+    <!--<string name="app_name2">Hasil Registrasi</string>-->
+    <string-array name="PilihAgama">
+        <item>- Pilih Agama-</item>
+        <item>Islam</item>
+        <item>Kristen</item>
+        <item>Hindu</item>
+        <item>Budha</item>
+    </string-array>
+</resources>
